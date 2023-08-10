@@ -1,0 +1,149 @@
+html, body{
+  margin: 0;
+  border: 0;
+}
+header{
+  background-color: rgb(90, 88, 88);
+  color:white;
+  height: 60px;
+  width: 100%;
+  position: fixed;
+  z-index: 10;
+}
+#logo{
+  width: 50px;
+  position: absolute;
+  top: 5px;
+  margin-left: 2%;
+}
+#menu{
+  
+  margin-right: 2%;
+  float: right;
+  transition-duration: 500ms;
+}
+li{
+  list-style: none;
+  float: left;
+  border-radius: 5%;
+  display: list-item;
+}
+#menu li a{
+  text-decoration: none;
+  display: inline;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 3px 10px 3px 10px;
+  color: white;
+  font-size: 17px;
+  font-weight: bolder;
+  letter-spacing: 1px;
+}
+li:hover{
+  background-color: #97bad8;
+  color: #212d41;
+  list-style: none;
+}
+a.hef{
+  cursor: pointer;
+}
+#imagem_fundo{
+background-image: url(img/industria_82-1.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+height: 400%;
+text-align: center;
+display: block;
+text size-adjust: 100%;
+}
+.text1{
+position: relative;
+overflow: hidden;
+}
+#t1{
+  background-size: 100%;
+  color:rgb(11, 12, 12);
+  padding: 20% 20%;
+  font-size: 60px;
+  margin-bottom: 20%;
+  line-height: 0.8;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  letter-spacing: 1px;
+}
+#t2{
+  color:rgb(11, 12, 12);
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: -39%;
+  margin-bottom: 20%;
+  border-top: 3px solid white;
+  padding-bottom:-10%;
+  text-align: justify;
+  text-shadow: 4px black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-size: 100%;
+  letter-spacing: 1px;
+}
+#acao{
+  padding: 06px 10px 06px 10px ;
+  border-radius: 5%;
+  background-color: rgb(20, 20, 20);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 19px;
+  font-weight: bolder;
+  letter-spacing: 1px;
+}
+.acao{
+  color: white;
+  text-decoration: none;
+}
+a.acao:hover{
+  background-color: #97bad8;
+  color: #212d41;
+  cursor: pointer;
+}
+section{
+  float: left;
+  display: block;
+  padding: 20px;
+} 
+.destaque{
+  background-image: url(img/desmatamento.jpg);
+  background-size: cover;
+  padding: 50px 20px 50px 20px ;
+}
+.colunayt{
+  float: left;
+  padding: 16px 16px 06px 16px ;
+  position: absolute;
+  width: 40%;
+  padding-top: 2%;
+}
+.coluna{
+  float: right;
+  padding: 16px 16px 06px 16px;
+  position: relative;
+  width: 40%;
+  padding-top: 2%;
+}
+h2{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  color: rgb(8, 1, 1);
+}
+#proj{
+  color: rgb(27, 5, 5);
+}
+.center{
+  text-align: center;
+  padding-bottom: 2%;
+}
+p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 17px;
+}
+.just{
+  text-align: justify;
+}
+.biod{
+
+}

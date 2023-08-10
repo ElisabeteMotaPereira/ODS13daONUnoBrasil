@@ -1,0 +1,2 @@
+Nossas escolhas podem ajudar a salvar o planeta. Precisamos da ação de todos, Estados Nacionais, Empresas, Organizações Internacionais e Sociedade Civil. Juntos podemos fazer a diferença. Nossas escolhas importam. Nossas ações contam.
+Aja já!
