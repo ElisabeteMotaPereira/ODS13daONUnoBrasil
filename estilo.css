@@ -47,7 +47,7 @@ a.hef{
   cursor: pointer;
 }
 #imagem_fundo{
-background-image: url(img/industria_82-1.jpg);
+background-image: url(industria_82-1.jpg);
 background-repeat: no-repeat;
 background-size: 100%;
 height: 400%;
@@ -107,7 +107,7 @@ section{
   padding: 20px;
 } 
 .destaque{
-  background-image: url(img/desmatamento.jpg);
+  background-image: url(desmatamento.jpg);
   background-size: cover;
   padding: 50px 20px 50px 20px ;
 }
