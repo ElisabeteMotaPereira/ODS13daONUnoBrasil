@@ -53,6 +53,13 @@ nav a {
   background-color: rgb(179, 250, 46);
   color: #066607;
 }
+.imagem-fundo-hero { 
+  background-image: url(industria_82-1.jpg);
+  height: 700px;
+  background-size: cover;
+  background-position: right center;
+  margin: 0%
+}
 .upper {
   text-transform: uppercase;
 }
