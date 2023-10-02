@@ -20,7 +20,7 @@ nav a {
   clear: both;
 }
 .header-verdedark {
-  background-color: rgba(23, 122, 23);
+  background-color: #177a17;
   color: var(--primary-color);
   height: 80px;
   width: 100%;
